@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-react",
+  "description": "A fullstack application built with Reack, Node.js and Express",
+  "main": "index.js",
+  "authors": [
+    "Seth Bergman"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "node.js",
+    "express"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.1"
+  }
+}
