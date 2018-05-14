@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/sethbergman/fullstack-react#readme",
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.18.3",
     "browser-sync": "^2.12.3",
     "browserify": "^14.0.0",
     "connect": "^3.4.1",
